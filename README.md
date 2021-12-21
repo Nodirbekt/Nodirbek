@@ -1,0 +1,2 @@
+# Nodirbek
+git init Mytest
